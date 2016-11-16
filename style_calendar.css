@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+}
+
+tr {
+    width: 50px;
+}
+
+th {
+
+    border: 1px dotted;
+    width: 50px;
+
+}
+
+td {
+
+    border: 1px dotted;
+    width: 50px;
+    height: 50px;
+}
+
+button {
+    width: 50px;
+    height: auto;
+}
